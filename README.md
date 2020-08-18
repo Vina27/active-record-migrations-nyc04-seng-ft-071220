@@ -234,7 +234,7 @@ class CreateArtists < ActiveRecord::Migration[4.2]
   end
 end
 ```
-
+A
 Looks a little familiar? On the left we've given the data type we'd like to
 cast the column as, and on the right, we've given the name we'd like to give the
 column. The only thing that we're missing is the primary key. Active Record
